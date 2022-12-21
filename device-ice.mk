@@ -5,7 +5,9 @@
 #
 
 # Overlays
-DEVICE_PACKAGE_OVERLAYS += $(LOCAL_PATH)/overlay-ice
+DEVICE_PACKAGE_OVERLAYS += \
+    $(LOCAL_PATH)/overlay-ice \
+    $(LOCAL_PATH)/$(TARGET_DEVICE)/overlay-ice
 
 # EUICC
 PRODUCT_COPY_FILES += \
