@@ -37,3 +37,5 @@ include device/google/gs201/BoardConfig-common.mk
 include device/google/gs-common/check_current_prebuilt/check_current_prebuilt.mk
 include device/google/pantah/sepolicy/panther-sepolicy.mk
 include device/google/pantah/wifi/BoardConfig-wifi.mk
+
+include device/google/pantah/panther/BoardConfigICE.mk
