@@ -9,6 +9,9 @@ DEVICE_PACKAGE_OVERLAYS += \
     $(LOCAL_PATH)/overlay-ice \
     $(LOCAL_PATH)/$(TARGET_DEVICE)/overlay-ice
 
+PRODUCT_PACKAGES += \
+    CarrierSettingsPantah
+
 # EUICC
 PRODUCT_COPY_FILES += \
     frameworks/native/data/etc/android.hardware.telephony.euicc.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/permissions/android.hardware.telephony.euicc.xml
