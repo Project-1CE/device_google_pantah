@@ -14,6 +14,9 @@ PRODUCT_PACKAGES += \
 # Kernel
 TARGET_PREBUILT_KERNEL := device/google/pantah-kernel/Image.lz4
 
+# Wireless charger
+include device/google/gs-common/wireless_charger/wireless_charger.mk
+
 # Build necessary packages for vendor
 
 # Audio
