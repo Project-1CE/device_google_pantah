@@ -530,7 +530,6 @@
         <boolean name="disable_voice_barring_notification_bool" value="true" />
         <boolean name="drop_video_call_when_answering_audio_call_bool" value="true" />
         <boolean name="dtmf_type_enabled_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <boolean name="editable_wfc_roaming_mode_bool" value="true" />
         <string name="emailGatewayNumber">6245</string>
         <string-array name="emergency_number_prefix_string_array" num="3">
@@ -3000,7 +2999,6 @@
         <int name="carrier_ussd_method_int" value="2" />
         <boolean name="carrier_volte_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <boolean name="hide_ims_apn_bool" value="true" />
         <int-array name="ims.geolocation_pidf_in_sip_invite_support_int_array" num="2">
             <item value="4" />
@@ -3340,7 +3338,6 @@
         <int name="carrier_ussd_method_int" value="2" />
         <boolean name="carrier_volte_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <boolean name="hide_ims_apn_bool" value="true" />
         <int-array name="ims.geolocation_pidf_in_sip_invite_support_int_array" num="2">
             <item value="4" />
@@ -4782,7 +4779,6 @@
         <int name="carrier_ussd_method_int" value="2" />
         <boolean name="carrier_volte_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="true" />
         <boolean name="ignore_rtt_mode_setting_bool" value="true" />
         <boolean name="ims.gruu_enabled_bool" value="true" />
         <int name="ims.ipv4_sip_mtu_size_cellular_int" value="1280" />
@@ -5064,7 +5060,6 @@
     </carrier_config>
     <carrier_config mcc="208" mnc="27">
         <boolean name="carrier_cross_sim_ims_available_bool" value="false" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <boolean name="ignore_rtt_mode_setting_bool" value="true" />
         <int-array name="ims.ipsec_encryption_algorithms_int_array" num="1">
             <item value="0" />
@@ -10516,7 +10511,6 @@
         <boolean name="carrier_supports_ss_over_ut_bool" value="true" />
         <boolean name="carrier_volte_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="true" />
         <boolean name="ignore_rtt_mode_setting_bool" value="true" />
         <string name="imsss.ut_as_server_fqdn_string">xcap.ims.mnc008.mcc222.pub.3gppnetwork.org</string>
         <int name="imsss.ut_as_server_port_int" value="443" />
@@ -11190,7 +11184,6 @@
         <boolean name="carrier_supports_ss_over_ut_bool" value="true" />
         <boolean name="carrier_volte_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="true" />
         <boolean name="ignore_rtt_mode_setting_bool" value="true" />
         <string name="imsss.ut_as_server_fqdn_string">xcap.ims.mnc008.mcc222.pub.3gppnetwork.org</string>
         <int name="imsss.ut_as_server_port_int" value="443" />
@@ -11639,7 +11632,6 @@
         <int name="carrier_ussd_method_int" value="2" />
         <boolean name="carrier_volte_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="true" />
         <boolean name="enabledMMS" value="false" />
         <boolean name="ignore_rtt_mode_setting_bool" value="false" />
         <boolean name="ims.gruu_enabled_bool" value="true" />
@@ -11823,7 +11815,6 @@
         <int name="carrier_ussd_method_int" value="2" />
         <boolean name="carrier_volte_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="true" />
         <boolean name="enabledMMS" value="false" />
         <boolean name="ignore_rtt_mode_setting_bool" value="false" />
         <boolean name="ims.gruu_enabled_bool" value="true" />
@@ -12001,7 +11992,6 @@
         <boolean name="carrier_supports_ss_over_ut_bool" value="true" />
         <boolean name="carrier_volte_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="true" />
         <boolean name="ignore_rtt_mode_setting_bool" value="true" />
         <string name="imsss.ut_as_server_fqdn_string">xcap.ims.mnc008.mcc222.pub.3gppnetwork.org</string>
         <int name="imsss.ut_as_server_port_int" value="443" />
@@ -12070,7 +12060,6 @@
         <int name="carrier_ussd_method_int" value="2" />
         <boolean name="carrier_volte_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="true" />
         <boolean name="enabledMMS" value="false" />
         <boolean name="ignore_rtt_mode_setting_bool" value="false" />
         <boolean name="ims.gruu_enabled_bool" value="true" />
@@ -12254,7 +12243,6 @@
         <int name="carrier_ussd_method_int" value="2" />
         <boolean name="carrier_volte_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="true" />
         <boolean name="enabledMMS" value="false" />
         <boolean name="ignore_rtt_mode_setting_bool" value="true" />
         <boolean name="ims.gruu_enabled_bool" value="true" />
@@ -12435,7 +12423,6 @@
         <int name="carrier_ussd_method_int" value="1" />
         <boolean name="carrier_volte_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="true" />
         <boolean name="enabledMMS" value="false" />
         <boolean name="ignore_rtt_mode_setting_bool" value="true" />
         <int-array name="ims.ipsec_authentication_algorithms_int_array" num="1">
@@ -14847,7 +14834,6 @@
         <int name="bsf.bsf_server_port_int" value="443" />
         <int name="bsf.bsf_transport_type_int" value="3" />
         <string name="default_vm_number_string">901</string>
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <boolean name="hide_lte_plus_data_icon_bool" value="false" />
         <int name="ims.ipv4_sip_mtu_size_cellular_int" value="1280" />
         <int name="ims.ipv6_sip_mtu_size_cellular_int" value="1280" />
@@ -14913,7 +14899,6 @@
         <int name="bsf.bsf_server_port_int" value="443" />
         <int name="bsf.bsf_transport_type_int" value="3" />
         <string name="default_vm_number_string">901</string>
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <boolean name="hide_lte_plus_data_icon_bool" value="false" />
         <int name="ims.ipv4_sip_mtu_size_cellular_int" value="1280" />
         <int name="ims.ipv6_sip_mtu_size_cellular_int" value="1280" />
@@ -14979,7 +14964,6 @@
         <int name="bsf.bsf_server_port_int" value="443" />
         <int name="bsf.bsf_transport_type_int" value="3" />
         <string name="default_vm_number_string">901</string>
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <boolean name="hide_lte_plus_data_icon_bool" value="false" />
         <int name="ims.ipv4_sip_mtu_size_cellular_int" value="1280" />
         <int name="ims.ipv6_sip_mtu_size_cellular_int" value="1280" />
@@ -15045,7 +15029,6 @@
         <int name="bsf.bsf_server_port_int" value="443" />
         <int name="bsf.bsf_transport_type_int" value="3" />
         <string name="default_vm_number_string">901</string>
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <boolean name="hide_lte_plus_data_icon_bool" value="false" />
         <int name="ims.ipv4_sip_mtu_size_cellular_int" value="1280" />
         <int name="ims.ipv6_sip_mtu_size_cellular_int" value="1280" />
@@ -15270,7 +15253,6 @@
         <int name="carrier_ussd_method_int" value="2" />
         <boolean name="carrier_volte_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <string-array name="feature_access_codes_string_array" num="0" />
         <int name="ims.ipv4_sip_mtu_size_cellular_int" value="1280" />
         <int name="ims.ipv6_sip_mtu_size_cellular_int" value="1280" />
@@ -15485,7 +15467,6 @@
         <boolean name="carrier_volte_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
         <string name="default_vm_number_string">121</string>
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <string-array name="feature_access_codes_string_array" num="3">
             <item value="153" />
             <item value="132" />
@@ -15550,7 +15531,6 @@
         <int name="carrier_ussd_method_int" value="2" />
         <boolean name="carrier_volte_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <string-array name="feature_access_codes_string_array" num="0" />
         <int name="ims.ipv4_sip_mtu_size_cellular_int" value="1280" />
         <int name="ims.ipv6_sip_mtu_size_cellular_int" value="1280" />
@@ -15701,7 +15681,6 @@
         <boolean name="carrier_volte_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
         <string name="default_vm_number_string">121</string>
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <string-array name="feature_access_codes_string_array" num="3">
             <item value="153" />
             <item value="132" />
@@ -15815,8 +15794,6 @@
         <int name="carrier_ussd_method_int" value="2" />
         <boolean name="carrier_volte_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
-        <boolean name="hide_enable_2g_bool" value="true" />
         <int name="ims.ipv4_sip_mtu_size_cellular_int" value="1300" />
         <int name="ims.ipv6_sip_mtu_size_cellular_int" value="1300" />
         <string name="ims.phone_context_domain_name_string">three.co.uk</string>
@@ -15940,8 +15917,6 @@
         <int name="carrier_ussd_method_int" value="2" />
         <boolean name="carrier_volte_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
-        <boolean name="hide_enable_2g_bool" value="true" />
         <int name="ims.ipv4_sip_mtu_size_cellular_int" value="1300" />
         <int name="ims.ipv6_sip_mtu_size_cellular_int" value="1300" />
         <string name="ims.phone_context_domain_name_string">three.co.uk</string>
@@ -16065,8 +16040,6 @@
         <int name="carrier_ussd_method_int" value="2" />
         <boolean name="carrier_volte_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
-        <boolean name="hide_enable_2g_bool" value="true" />
         <int name="ims.ipv4_sip_mtu_size_cellular_int" value="1300" />
         <int name="ims.ipv6_sip_mtu_size_cellular_int" value="1300" />
         <string name="ims.phone_context_domain_name_string">three.co.uk</string>
@@ -16190,8 +16163,6 @@
         <int name="carrier_ussd_method_int" value="2" />
         <boolean name="carrier_volte_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
-        <boolean name="hide_enable_2g_bool" value="true" />
         <int name="ims.ipv4_sip_mtu_size_cellular_int" value="1300" />
         <int name="ims.ipv6_sip_mtu_size_cellular_int" value="1300" />
         <string name="ims.phone_context_domain_name_string">three.co.uk</string>
@@ -16316,8 +16287,6 @@
         <int name="carrier_ussd_method_int" value="2" />
         <boolean name="carrier_volte_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
-        <boolean name="hide_enable_2g_bool" value="true" />
         <int name="ims.ipv4_sip_mtu_size_cellular_int" value="1300" />
         <int name="ims.ipv6_sip_mtu_size_cellular_int" value="1300" />
         <string name="ims.phone_context_domain_name_string">three.co.uk</string>
@@ -16446,7 +16415,6 @@
         <int name="carrier_ussd_method_int" value="2" />
         <boolean name="carrier_volte_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <boolean name="hide_ims_apn_bool" value="true" />
         <int-array name="ims.geolocation_pidf_in_sip_invite_support_int_array" num="2">
             <item value="4" />
@@ -16512,7 +16480,6 @@
     <carrier_config mcc="234" mnc="30" gid1="B2">
         <boolean name="carrier_volte_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <boolean name="hide_ims_apn_bool" value="true" />
         <string-array name="non_roaming_operator_string_array" num="6">
             <item value="23430" />
@@ -16536,8 +16503,6 @@
         <int name="carrier_ussd_method_int" value="2" />
         <boolean name="carrier_volte_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
-        <boolean name="hide_enable_2g_bool" value="true" />
         <boolean name="hide_ims_apn_bool" value="true" />
         <boolean name="hide_preferred_network_type_bool" value="true" />
         <int-array name="ims.geolocation_pidf_in_sip_invite_support_int_array" num="2">
@@ -16616,8 +16581,6 @@
         <int name="carrier_ussd_method_int" value="2" />
         <boolean name="carrier_volte_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
-        <boolean name="hide_enable_2g_bool" value="true" />
         <boolean name="hide_ims_apn_bool" value="true" />
         <boolean name="hide_preferred_network_type_bool" value="true" />
         <int-array name="ims.geolocation_pidf_in_sip_invite_support_int_array" num="2">
@@ -16716,7 +16679,6 @@
         <boolean name="carrier_volte_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
         <boolean name="display_voicemail_number_as_default_call_forwarding_number" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <boolean name="hide_ims_apn_bool" value="true" />
         <boolean name="hide_preferred_network_type_bool" value="true" />
         <int-array name="ims.geolocation_pidf_in_sip_invite_support_int_array" num="2">
@@ -16806,7 +16768,6 @@
         <int name="wfc_spn_format_idx_int" value="1" />
     </carrier_config>
     <carrier_config mcc="234" mnc="33" spn="LIFE">
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <boolean name="hide_ims_apn_bool" value="true" />
         <string-array name="non_roaming_operator_string_array" num="6">
             <item value="23430" />
@@ -16836,7 +16797,6 @@
         <boolean name="carrier_volte_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
         <boolean name="display_voicemail_number_as_default_call_forwarding_number" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <boolean name="hide_ims_apn_bool" value="true" />
         <boolean name="hide_preferred_network_type_bool" value="true" />
         <int-array name="ims.geolocation_pidf_in_sip_invite_support_int_array" num="2">
@@ -16935,7 +16895,6 @@
         <int name="carrier_ussd_method_int" value="2" />
         <boolean name="carrier_volte_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <boolean name="hide_ims_apn_bool" value="true" />
         <int-array name="ims.geolocation_pidf_in_sip_invite_support_int_array" num="2">
             <item value="4" />
@@ -17010,8 +16969,6 @@
         <int name="carrier_ussd_method_int" value="2" />
         <boolean name="carrier_volte_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
-        <boolean name="hide_enable_2g_bool" value="true" />
         <int name="ims.ipv4_sip_mtu_size_cellular_int" value="1300" />
         <int name="ims.ipv6_sip_mtu_size_cellular_int" value="1300" />
         <string name="ims.phone_context_domain_name_string">three.co.uk</string>
@@ -17245,7 +17202,6 @@
         <boolean name="carrier_supports_ss_over_ut_bool" value="true" />
         <boolean name="carrier_volte_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <int name="ims.ipv4_sip_mtu_size_cellular_int" value="1280" />
         <int name="ims.ipv6_sip_mtu_size_cellular_int" value="1280" />
         <int name="ims.sip_timer_b_millis_int" value="90000" />
@@ -17381,7 +17337,6 @@
         <boolean name="carrier_volte_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="false" />
         <boolean name="display_voicemail_number_as_default_call_forwarding_number" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <boolean name="hide_ims_apn_bool" value="true" />
         <boolean name="hide_preferred_network_type_bool" value="true" />
         <int-array name="ims.ipsec_authentication_algorithms_int_array" num="1">
@@ -17486,7 +17441,6 @@
         <boolean name="carrier_volte_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
         <boolean name="display_voicemail_number_as_default_call_forwarding_number" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <boolean name="hide_ims_apn_bool" value="true" />
         <boolean name="hide_preferred_network_type_bool" value="true" />
         <int-array name="ims.geolocation_pidf_in_sip_invite_support_int_array" num="2">
@@ -17630,7 +17584,6 @@
         <boolean name="carrier_volte_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
         <string name="default_vm_number_string">121</string>
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <string-array name="feature_access_codes_string_array" num="3">
             <item value="153" />
             <item value="132" />
@@ -17745,8 +17698,6 @@
         <int name="carrier_ussd_method_int" value="2" />
         <boolean name="carrier_volte_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
-        <boolean name="hide_enable_2g_bool" value="true" />
         <int name="ims.ipv4_sip_mtu_size_cellular_int" value="1300" />
         <int name="ims.ipv6_sip_mtu_size_cellular_int" value="1300" />
         <string name="ims.phone_context_domain_name_string">three.co.uk</string>
@@ -17871,8 +17822,6 @@
         <int name="carrier_ussd_method_int" value="2" />
         <boolean name="carrier_volte_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
-        <boolean name="hide_enable_2g_bool" value="true" />
         <int name="ims.ipv4_sip_mtu_size_cellular_int" value="1300" />
         <int name="ims.ipv6_sip_mtu_size_cellular_int" value="1300" />
         <string name="ims.phone_context_domain_name_string">three.co.uk</string>
@@ -18152,7 +18101,6 @@
         <boolean name="carrier_volte_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
         <boolean name="editable_voicemail_number_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <boolean name="ignore_rtt_mode_setting_bool" value="true" />
         <int-array name="ims.geolocation_pidf_in_sip_invite_support_int_array" num="2">
             <item value="4" />
@@ -18615,7 +18563,6 @@
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
         <string name="default_vm_number_string">+46735333333</string>
         <boolean name="editable_voicemail_number_setting_bool" value="false" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <boolean name="editable_wfc_roaming_mode_bool" value="false" />
         <boolean name="ignore_rtt_mode_setting_bool" value="true" />
         <int-array name="ims.geolocation_pidf_in_sip_invite_support_int_array" num="2">
@@ -18940,7 +18887,6 @@
         <boolean name="carrier_supports_ss_over_ut_bool" value="true" />
         <boolean name="carrier_volte_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <int name="ims.ipv4_sip_mtu_size_cellular_int" value="1280" />
         <int name="ims.ipv6_sip_mtu_size_cellular_int" value="1280" />
         <int name="ims.sip_timer_b_millis_int" value="90000" />
@@ -21283,7 +21229,6 @@
         <boolean name="check_pricing_with_carrier_data_roaming_bool" value="true" />
         <string name="default_vm_number_string">3311</string>
         <boolean name="display_hd_audio_property_bool" value="false" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <boolean name="hide_lte_plus_data_icon_bool" value="false" />
         <boolean name="ignore_rtt_mode_setting_bool" value="true" />
         <string name="ims.ims_user_agent_string">#MANUFACTURE# - #MODEL# - #BUILD#</string>
@@ -21412,7 +21357,6 @@
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
         <string name="default_vm_number_string">3311</string>
         <boolean name="display_hd_audio_property_bool" value="false" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <boolean name="hide_lte_plus_data_icon_bool" value="false" />
         <boolean name="prefer_2g_bool" value="true" />
         <boolean name="show_4g_for_lte_data_icon_bool" value="true" />
@@ -21442,7 +21386,6 @@
         <boolean name="check_pricing_with_carrier_data_roaming_bool" value="true" />
         <string name="default_vm_number_string">3311</string>
         <boolean name="display_hd_audio_property_bool" value="false" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <boolean name="hide_lte_plus_data_icon_bool" value="false" />
         <boolean name="ignore_rtt_mode_setting_bool" value="true" />
         <string name="ims.ims_user_agent_string">#MANUFACTURE# - #MODEL# - #BUILD#</string>
@@ -21581,7 +21524,6 @@
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
         <boolean name="check_pricing_with_carrier_data_roaming_bool" value="true" />
         <string name="default_vm_number_string">5500</string>
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <int name="emergency_notification_delay_int" value="30000" />
         <boolean name="enabledMMS" value="false" />
         <boolean name="hide_lte_plus_data_icon_bool" value="false" />
@@ -21815,7 +21757,6 @@
         <boolean name="check_pricing_with_carrier_data_roaming_bool" value="true" />
         <string name="default_vm_number_string">3311</string>
         <boolean name="display_hd_audio_property_bool" value="false" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <boolean name="hide_lte_plus_data_icon_bool" value="false" />
         <boolean name="ignore_rtt_mode_setting_bool" value="true" />
         <string name="ims.ims_user_agent_string">#MANUFACTURE# - #MODEL# - #BUILD#</string>
@@ -21960,7 +21901,6 @@
         <boolean name="check_pricing_with_carrier_data_roaming_bool" value="true" />
         <string name="default_vm_number_string">3311</string>
         <boolean name="display_hd_audio_property_bool" value="false" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <boolean name="hide_lte_plus_data_icon_bool" value="false" />
         <boolean name="ignore_rtt_mode_setting_bool" value="true" />
         <string name="ims.ims_user_agent_string">#MANUFACTURE# - #MODEL# - #BUILD#</string>
@@ -22502,7 +22442,6 @@
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
         <boolean name="check_pricing_with_carrier_data_roaming_bool" value="true" />
         <string name="default_vm_number_string">5500</string>
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <int name="emergency_notification_delay_int" value="30000" />
         <boolean name="enabledMMS" value="false" />
         <boolean name="hide_lte_plus_data_icon_bool" value="false" />
@@ -22867,7 +22806,6 @@
         <boolean name="carrier_supports_ss_over_ut_bool" value="true" />
         <boolean name="carrier_volte_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <boolean name="ignore_rtt_mode_setting_bool" value="true" />
         <int-array name="imssms.sms_over_ims_supported_rats_int_array" num="2">
             <item value="3" />
@@ -22923,7 +22861,6 @@
         <boolean name="carrier_supports_ss_over_ut_bool" value="true" />
         <boolean name="carrier_volte_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
-        <boolean name="hide_enable_2g_bool" value="true" />
         <boolean name="ignore_rtt_mode_setting_bool" value="true" />
         <int-array name="ims.geolocation_pidf_in_sip_invite_support_int_array" num="2">
             <item value="4" />
@@ -23142,7 +23079,6 @@
         <boolean name="carrier_supports_ss_over_ut_bool" value="true" />
         <boolean name="carrier_volte_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <boolean name="ignore_rtt_mode_setting_bool" value="true" />
         <int-array name="imssms.sms_over_ims_supported_rats_int_array" num="2">
             <item value="3" />
@@ -23189,7 +23125,6 @@
         <boolean name="carrier_supports_ss_over_ut_bool" value="true" />
         <boolean name="carrier_volte_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <boolean name="ignore_rtt_mode_setting_bool" value="true" />
         <int-array name="imssms.sms_over_ims_supported_rats_int_array" num="2">
             <item value="3" />
@@ -23236,7 +23171,6 @@
         <boolean name="carrier_supports_ss_over_ut_bool" value="true" />
         <boolean name="carrier_volte_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <boolean name="ignore_rtt_mode_setting_bool" value="true" />
         <int-array name="imssms.sms_over_ims_supported_rats_int_array" num="2">
             <item value="3" />
@@ -23661,7 +23595,6 @@
         <boolean name="carrier_supports_ss_over_ut_bool" value="true" />
         <boolean name="carrier_volte_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <boolean name="enabledMMS" value="false" />
         <boolean name="ignore_rtt_mode_setting_bool" value="true" />
         <pbundle_as_map name="imsvoice.evs_payload_description_bundle">
@@ -23688,7 +23621,6 @@
         <boolean name="carrier_supports_ss_over_ut_bool" value="true" />
         <boolean name="carrier_volte_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <boolean name="enabledMMS" value="false" />
         <boolean name="ignore_rtt_mode_setting_bool" value="true" />
         <pbundle_as_map name="imsvoice.evs_payload_description_bundle">
@@ -24557,7 +24489,6 @@
         <int name="carrier_ussd_method_int" value="2" />
         <boolean name="carrier_volte_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="true" />
         <boolean name="enabledMMS" value="true" />
         <boolean name="ignore_rtt_mode_setting_bool" value="false" />
         <boolean name="ims.gruu_enabled_bool" value="true" />
@@ -24865,7 +24796,6 @@
         <boolean name="carrier_volte_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
         <boolean name="display_hd_plus_icon_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <string name="gps.es_extension_sec">300</string>
         <boolean name="gsm_cdma_calls_can_be_hd_audio" value="true" />
         <boolean name="hide_lte_plus_data_icon_bool" value="false" />
@@ -25039,7 +24969,6 @@
         <int name="carrier_ussd_method_int" value="2" />
         <boolean name="carrier_volte_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <string name="gps.es_extension_sec">300</string>
         <boolean name="gsm_cdma_calls_can_be_hd_audio" value="true" />
         <boolean name="hide_lte_plus_data_icon_bool" value="false" />
@@ -25228,7 +25157,6 @@
         <boolean name="carrier_volte_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
         <boolean name="display_hd_plus_icon_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <string name="gps.es_extension_sec">300</string>
         <boolean name="gsm_cdma_calls_can_be_hd_audio" value="true" />
         <boolean name="hide_lte_plus_data_icon_bool" value="false" />
@@ -25415,7 +25343,6 @@
         <boolean name="carrier_volte_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
         <boolean name="display_hd_plus_icon_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <string name="gps.es_extension_sec">300</string>
         <boolean name="gsm_cdma_calls_can_be_hd_audio" value="true" />
         <boolean name="hide_lte_plus_data_icon_bool" value="false" />
@@ -25589,7 +25516,6 @@
         <int name="carrier_ussd_method_int" value="2" />
         <boolean name="carrier_volte_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <string name="gps.es_extension_sec">300</string>
         <boolean name="gsm_cdma_calls_can_be_hd_audio" value="true" />
         <boolean name="hide_lte_plus_data_icon_bool" value="false" />
@@ -25778,7 +25704,6 @@
         <boolean name="carrier_volte_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
         <boolean name="display_hd_plus_icon_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <string name="gps.es_extension_sec">300</string>
         <boolean name="gsm_cdma_calls_can_be_hd_audio" value="true" />
         <boolean name="hide_lte_plus_data_icon_bool" value="false" />
@@ -30170,7 +30095,6 @@
         <boolean name="disable_voice_barring_notification_bool" value="true" />
         <boolean name="drop_video_call_when_answering_audio_call_bool" value="true" />
         <boolean name="dtmf_type_enabled_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <boolean name="editable_wfc_roaming_mode_bool" value="true" />
         <string name="emailGatewayNumber">6245</string>
         <string-array name="emergency_number_prefix_string_array" num="3">
@@ -31798,7 +31722,6 @@
         <boolean name="carrier_volte_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
         <boolean name="csp_enabled_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <string-array name="emergency_number_prefix_string_array" num="1">
             <item value="*272" />
         </string-array>
@@ -32084,7 +32007,6 @@
         <boolean name="carrier_volte_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
         <boolean name="csp_enabled_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <string-array name="emergency_number_prefix_string_array" num="1">
             <item value="*272" />
         </string-array>
@@ -95607,7 +95529,6 @@
         <boolean name="disable_severe_when_extreme_disabled_bool" value="false" />
         <boolean name="drop_video_call_when_answering_audio_call_bool" value="true" />
         <boolean name="dtmf_type_enabled_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <boolean name="editable_wfc_roaming_mode_bool" value="true" />
         <string name="emailGatewayNumber">6245</string>
         <string-array name="emergency_number_prefix_string_array" num="3">
@@ -96046,7 +95967,6 @@
         <boolean name="disable_voice_barring_notification_bool" value="true" />
         <boolean name="drop_video_call_when_answering_audio_call_bool" value="true" />
         <boolean name="dtmf_type_enabled_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <boolean name="editable_wfc_roaming_mode_bool" value="true" />
         <string name="emailGatewayNumber">6245</string>
         <boolean name="enabledNotifyWapMMSC" value="true" />
@@ -96492,7 +96412,6 @@
         <boolean name="disable_voice_barring_notification_bool" value="true" />
         <boolean name="drop_video_call_when_answering_audio_call_bool" value="true" />
         <boolean name="dtmf_type_enabled_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <boolean name="editable_wfc_roaming_mode_bool" value="true" />
         <string name="emailGatewayNumber">6245</string>
         <boolean name="enabledNotifyWapMMSC" value="true" />
@@ -96938,7 +96857,6 @@
         <boolean name="disable_voice_barring_notification_bool" value="true" />
         <boolean name="drop_video_call_when_answering_audio_call_bool" value="true" />
         <boolean name="dtmf_type_enabled_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <boolean name="editable_wfc_roaming_mode_bool" value="true" />
         <string name="emailGatewayNumber">6245</string>
         <string-array name="emergency_number_prefix_string_array" num="3">
@@ -97397,7 +97315,6 @@
         <boolean name="disable_severe_when_extreme_disabled_bool" value="false" />
         <boolean name="drop_video_call_when_answering_audio_call_bool" value="true" />
         <boolean name="dtmf_type_enabled_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <boolean name="editable_wfc_roaming_mode_bool" value="true" />
         <string name="emailGatewayNumber">6245</string>
         <string-array name="emergency_number_prefix_string_array" num="3">
@@ -97836,7 +97753,6 @@
         <boolean name="disable_voice_barring_notification_bool" value="true" />
         <boolean name="drop_video_call_when_answering_audio_call_bool" value="true" />
         <boolean name="dtmf_type_enabled_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <boolean name="editable_wfc_roaming_mode_bool" value="true" />
         <string name="emailGatewayNumber">6245</string>
         <boolean name="enabledNotifyWapMMSC" value="true" />
@@ -98282,7 +98198,6 @@
         <boolean name="disable_voice_barring_notification_bool" value="true" />
         <boolean name="drop_video_call_when_answering_audio_call_bool" value="true" />
         <boolean name="dtmf_type_enabled_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <boolean name="editable_wfc_roaming_mode_bool" value="true" />
         <string name="emailGatewayNumber">6245</string>
         <boolean name="enabledNotifyWapMMSC" value="true" />
@@ -98716,7 +98631,6 @@
         <boolean name="disable_severe_when_extreme_disabled_bool" value="false" />
         <boolean name="drop_video_call_when_answering_audio_call_bool" value="true" />
         <boolean name="dtmf_type_enabled_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <boolean name="editable_wfc_roaming_mode_bool" value="true" />
         <string name="emailGatewayNumber">6245</string>
         <string-array name="emergency_number_prefix_string_array" num="3">
@@ -99141,7 +99055,6 @@
         <boolean name="disable_severe_when_extreme_disabled_bool" value="false" />
         <boolean name="drop_video_call_when_answering_audio_call_bool" value="true" />
         <boolean name="dtmf_type_enabled_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <boolean name="editable_wfc_roaming_mode_bool" value="true" />
         <string name="emailGatewayNumber">6245</string>
         <string-array name="emergency_number_prefix_string_array" num="3">
@@ -99566,7 +99479,6 @@
         <boolean name="disable_severe_when_extreme_disabled_bool" value="false" />
         <boolean name="drop_video_call_when_answering_audio_call_bool" value="true" />
         <boolean name="dtmf_type_enabled_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <boolean name="editable_wfc_roaming_mode_bool" value="true" />
         <string name="emailGatewayNumber">6245</string>
         <string-array name="emergency_number_prefix_string_array" num="3">
@@ -99991,7 +99903,6 @@
         <boolean name="disable_severe_when_extreme_disabled_bool" value="false" />
         <boolean name="drop_video_call_when_answering_audio_call_bool" value="true" />
         <boolean name="dtmf_type_enabled_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <boolean name="editable_wfc_roaming_mode_bool" value="true" />
         <string name="emailGatewayNumber">6245</string>
         <string-array name="emergency_number_prefix_string_array" num="3">
@@ -100416,7 +100327,6 @@
         <boolean name="disable_severe_when_extreme_disabled_bool" value="false" />
         <boolean name="drop_video_call_when_answering_audio_call_bool" value="true" />
         <boolean name="dtmf_type_enabled_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <boolean name="editable_wfc_roaming_mode_bool" value="true" />
         <string name="emailGatewayNumber">6245</string>
         <string-array name="emergency_number_prefix_string_array" num="3">
@@ -100841,7 +100751,6 @@
         <boolean name="disable_severe_when_extreme_disabled_bool" value="false" />
         <boolean name="drop_video_call_when_answering_audio_call_bool" value="true" />
         <boolean name="dtmf_type_enabled_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <boolean name="editable_wfc_roaming_mode_bool" value="true" />
         <string name="emailGatewayNumber">6245</string>
         <string-array name="emergency_number_prefix_string_array" num="3">
@@ -101266,7 +101175,6 @@
         <boolean name="disable_severe_when_extreme_disabled_bool" value="false" />
         <boolean name="drop_video_call_when_answering_audio_call_bool" value="true" />
         <boolean name="dtmf_type_enabled_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <boolean name="editable_wfc_roaming_mode_bool" value="true" />
         <string name="emailGatewayNumber">6245</string>
         <string-array name="emergency_number_prefix_string_array" num="3">
@@ -101691,7 +101599,6 @@
         <boolean name="disable_severe_when_extreme_disabled_bool" value="false" />
         <boolean name="drop_video_call_when_answering_audio_call_bool" value="true" />
         <boolean name="dtmf_type_enabled_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <boolean name="editable_wfc_roaming_mode_bool" value="true" />
         <string name="emailGatewayNumber">6245</string>
         <string-array name="emergency_number_prefix_string_array" num="3">
@@ -102130,7 +102037,6 @@
         <boolean name="disable_voice_barring_notification_bool" value="true" />
         <boolean name="drop_video_call_when_answering_audio_call_bool" value="true" />
         <boolean name="dtmf_type_enabled_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <boolean name="editable_wfc_roaming_mode_bool" value="true" />
         <string name="emailGatewayNumber">6245</string>
         <boolean name="enabledNotifyWapMMSC" value="true" />
@@ -102576,7 +102482,6 @@
         <boolean name="disable_voice_barring_notification_bool" value="true" />
         <boolean name="drop_video_call_when_answering_audio_call_bool" value="true" />
         <boolean name="dtmf_type_enabled_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <boolean name="editable_wfc_roaming_mode_bool" value="true" />
         <string name="emailGatewayNumber">6245</string>
         <boolean name="enabledNotifyWapMMSC" value="true" />
@@ -103022,7 +102927,6 @@
         <boolean name="disable_voice_barring_notification_bool" value="true" />
         <boolean name="drop_video_call_when_answering_audio_call_bool" value="true" />
         <boolean name="dtmf_type_enabled_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <boolean name="editable_wfc_roaming_mode_bool" value="true" />
         <string name="emailGatewayNumber">6245</string>
         <string-array name="emergency_number_prefix_string_array" num="3">
@@ -103793,7 +103697,6 @@
         <boolean name="disable_voice_barring_notification_bool" value="true" />
         <boolean name="drop_video_call_when_answering_audio_call_bool" value="true" />
         <boolean name="dtmf_type_enabled_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <boolean name="editable_wfc_roaming_mode_bool" value="true" />
         <string name="emailGatewayNumber">6245</string>
         <string-array name="emergency_number_prefix_string_array" num="3">
@@ -127403,7 +127306,6 @@
         <boolean name="disable_voice_barring_notification_bool" value="true" />
         <boolean name="drop_video_call_when_answering_audio_call_bool" value="true" />
         <boolean name="dtmf_type_enabled_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <boolean name="editable_wfc_roaming_mode_bool" value="true" />
         <string name="emailGatewayNumber">6245</string>
         <string-array name="emergency_number_prefix_string_array" num="3">
@@ -127874,7 +127776,6 @@
         <boolean name="disable_voice_barring_notification_bool" value="true" />
         <boolean name="drop_video_call_when_answering_audio_call_bool" value="true" />
         <boolean name="dtmf_type_enabled_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <boolean name="editable_wfc_roaming_mode_bool" value="true" />
         <string name="emailGatewayNumber">6245</string>
         <string-array name="emergency_number_prefix_string_array" num="3">
@@ -128769,7 +128670,6 @@
         <boolean name="disable_voice_barring_notification_bool" value="true" />
         <boolean name="drop_video_call_when_answering_audio_call_bool" value="true" />
         <boolean name="dtmf_type_enabled_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <boolean name="editable_wfc_roaming_mode_bool" value="true" />
         <string name="emailGatewayNumber">6245</string>
         <string-array name="emergency_number_prefix_string_array" num="3">
@@ -129534,7 +129434,6 @@
         <boolean name="disable_voice_barring_notification_bool" value="true" />
         <boolean name="drop_video_call_when_answering_audio_call_bool" value="true" />
         <boolean name="dtmf_type_enabled_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <boolean name="editable_wfc_roaming_mode_bool" value="true" />
         <string name="emailGatewayNumber">6245</string>
         <string-array name="emergency_number_prefix_string_array" num="3">
@@ -130297,7 +130196,6 @@
         <boolean name="disable_voice_barring_notification_bool" value="true" />
         <boolean name="drop_video_call_when_answering_audio_call_bool" value="true" />
         <boolean name="dtmf_type_enabled_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <boolean name="editable_wfc_roaming_mode_bool" value="true" />
         <string name="emailGatewayNumber">6245</string>
         <string-array name="emergency_number_prefix_string_array" num="3">
@@ -130622,7 +130520,6 @@
         <boolean name="disable_severe_when_extreme_disabled_bool" value="false" />
         <boolean name="drop_video_call_when_answering_audio_call_bool" value="true" />
         <boolean name="dtmf_type_enabled_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <boolean name="editable_wfc_roaming_mode_bool" value="true" />
         <string name="emailGatewayNumber">6245</string>
         <string-array name="emergency_number_prefix_string_array" num="3">
@@ -131061,7 +130958,6 @@
         <boolean name="disable_voice_barring_notification_bool" value="true" />
         <boolean name="drop_video_call_when_answering_audio_call_bool" value="true" />
         <boolean name="dtmf_type_enabled_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <boolean name="editable_wfc_roaming_mode_bool" value="true" />
         <string name="emailGatewayNumber">6245</string>
         <boolean name="enabledNotifyWapMMSC" value="true" />
@@ -131498,7 +131394,6 @@
         <boolean name="disable_voice_barring_notification_bool" value="true" />
         <boolean name="drop_video_call_when_answering_audio_call_bool" value="true" />
         <boolean name="dtmf_type_enabled_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <boolean name="editable_wfc_roaming_mode_bool" value="true" />
         <string name="emailGatewayNumber">6245</string>
         <boolean name="enabledNotifyWapMMSC" value="true" />
@@ -132340,7 +132235,6 @@
         <boolean name="disable_voice_barring_notification_bool" value="true" />
         <boolean name="drop_video_call_when_answering_audio_call_bool" value="true" />
         <boolean name="dtmf_type_enabled_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <boolean name="editable_wfc_roaming_mode_bool" value="true" />
         <string name="emailGatewayNumber">6245</string>
         <boolean name="enabledNotifyWapMMSC" value="true" />
@@ -133157,7 +133051,6 @@
         <boolean name="disable_voice_barring_notification_bool" value="true" />
         <boolean name="drop_video_call_when_answering_audio_call_bool" value="true" />
         <boolean name="dtmf_type_enabled_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <boolean name="editable_wfc_roaming_mode_bool" value="true" />
         <string name="emailGatewayNumber">6245</string>
         <boolean name="enabledNotifyWapMMSC" value="true" />
@@ -133563,7 +133456,6 @@
         <boolean name="disable_voice_barring_notification_bool" value="true" />
         <boolean name="drop_video_call_when_answering_audio_call_bool" value="true" />
         <boolean name="dtmf_type_enabled_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <boolean name="editable_wfc_roaming_mode_bool" value="true" />
         <string name="emailGatewayNumber">6245</string>
         <boolean name="enabledNotifyWapMMSC" value="true" />
@@ -134008,7 +133900,6 @@
         <boolean name="disable_voice_barring_notification_bool" value="true" />
         <boolean name="drop_video_call_when_answering_audio_call_bool" value="true" />
         <boolean name="dtmf_type_enabled_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <boolean name="editable_wfc_roaming_mode_bool" value="true" />
         <string name="emailGatewayNumber">6245</string>
         <string-array name="emergency_number_prefix_string_array" num="3">
@@ -134481,7 +134372,6 @@
         <boolean name="disable_voice_barring_notification_bool" value="true" />
         <boolean name="drop_video_call_when_answering_audio_call_bool" value="true" />
         <boolean name="dtmf_type_enabled_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <boolean name="editable_wfc_roaming_mode_bool" value="true" />
         <string name="emailGatewayNumber">6245</string>
         <boolean name="enabledNotifyWapMMSC" value="true" />
@@ -134927,7 +134817,6 @@
         <boolean name="disable_voice_barring_notification_bool" value="true" />
         <boolean name="drop_video_call_when_answering_audio_call_bool" value="true" />
         <boolean name="dtmf_type_enabled_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <boolean name="editable_wfc_roaming_mode_bool" value="true" />
         <string name="emailGatewayNumber">6245</string>
         <boolean name="enabledNotifyWapMMSC" value="true" />
@@ -135375,7 +135264,6 @@
         <boolean name="disable_voice_barring_notification_bool" value="true" />
         <boolean name="drop_video_call_when_answering_audio_call_bool" value="true" />
         <boolean name="dtmf_type_enabled_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <boolean name="editable_wfc_roaming_mode_bool" value="true" />
         <string name="emailGatewayNumber">6245</string>
         <boolean name="enabledNotifyWapMMSC" value="true" />
@@ -135821,7 +135709,6 @@
         <boolean name="disable_voice_barring_notification_bool" value="true" />
         <boolean name="drop_video_call_when_answering_audio_call_bool" value="true" />
         <boolean name="dtmf_type_enabled_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <boolean name="editable_wfc_roaming_mode_bool" value="true" />
         <string name="emailGatewayNumber">6245</string>
         <boolean name="enabledNotifyWapMMSC" value="true" />
@@ -136269,7 +136156,6 @@
         <boolean name="disable_voice_barring_notification_bool" value="true" />
         <boolean name="drop_video_call_when_answering_audio_call_bool" value="true" />
         <boolean name="dtmf_type_enabled_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <boolean name="editable_wfc_roaming_mode_bool" value="true" />
         <string name="emailGatewayNumber">6245</string>
         <boolean name="enabledNotifyWapMMSC" value="true" />
@@ -136715,7 +136601,6 @@
         <boolean name="disable_voice_barring_notification_bool" value="true" />
         <boolean name="drop_video_call_when_answering_audio_call_bool" value="true" />
         <boolean name="dtmf_type_enabled_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <boolean name="editable_wfc_roaming_mode_bool" value="true" />
         <string name="emailGatewayNumber">6245</string>
         <boolean name="enabledNotifyWapMMSC" value="true" />
@@ -137163,7 +137048,6 @@
         <boolean name="disable_voice_barring_notification_bool" value="true" />
         <boolean name="drop_video_call_when_answering_audio_call_bool" value="true" />
         <boolean name="dtmf_type_enabled_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <boolean name="editable_wfc_roaming_mode_bool" value="true" />
         <string name="emailGatewayNumber">6245</string>
         <boolean name="enabledNotifyWapMMSC" value="true" />
@@ -137609,7 +137493,6 @@
         <boolean name="disable_voice_barring_notification_bool" value="true" />
         <boolean name="drop_video_call_when_answering_audio_call_bool" value="true" />
         <boolean name="dtmf_type_enabled_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <boolean name="editable_wfc_roaming_mode_bool" value="true" />
         <string name="emailGatewayNumber">6245</string>
         <boolean name="enabledNotifyWapMMSC" value="true" />
@@ -138057,7 +137940,6 @@
         <boolean name="disable_voice_barring_notification_bool" value="true" />
         <boolean name="drop_video_call_when_answering_audio_call_bool" value="true" />
         <boolean name="dtmf_type_enabled_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <boolean name="editable_wfc_roaming_mode_bool" value="true" />
         <string name="emailGatewayNumber">6245</string>
         <boolean name="enabledNotifyWapMMSC" value="true" />
@@ -138503,7 +138385,6 @@
         <boolean name="disable_voice_barring_notification_bool" value="true" />
         <boolean name="drop_video_call_when_answering_audio_call_bool" value="true" />
         <boolean name="dtmf_type_enabled_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <boolean name="editable_wfc_roaming_mode_bool" value="true" />
         <string name="emailGatewayNumber">6245</string>
         <boolean name="enabledNotifyWapMMSC" value="true" />
@@ -138951,7 +138832,6 @@
         <boolean name="disable_voice_barring_notification_bool" value="true" />
         <boolean name="drop_video_call_when_answering_audio_call_bool" value="true" />
         <boolean name="dtmf_type_enabled_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <boolean name="editable_wfc_roaming_mode_bool" value="true" />
         <string name="emailGatewayNumber">6245</string>
         <boolean name="enabledNotifyWapMMSC" value="true" />
@@ -139397,7 +139277,6 @@
         <boolean name="disable_voice_barring_notification_bool" value="true" />
         <boolean name="drop_video_call_when_answering_audio_call_bool" value="true" />
         <boolean name="dtmf_type_enabled_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <boolean name="editable_wfc_roaming_mode_bool" value="true" />
         <string name="emailGatewayNumber">6245</string>
         <boolean name="enabledNotifyWapMMSC" value="true" />
@@ -139845,7 +139724,6 @@
         <boolean name="disable_voice_barring_notification_bool" value="true" />
         <boolean name="drop_video_call_when_answering_audio_call_bool" value="true" />
         <boolean name="dtmf_type_enabled_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <boolean name="editable_wfc_roaming_mode_bool" value="true" />
         <string name="emailGatewayNumber">6245</string>
         <boolean name="enabledNotifyWapMMSC" value="true" />
@@ -140291,7 +140169,6 @@
         <boolean name="disable_voice_barring_notification_bool" value="true" />
         <boolean name="drop_video_call_when_answering_audio_call_bool" value="true" />
         <boolean name="dtmf_type_enabled_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <boolean name="editable_wfc_roaming_mode_bool" value="true" />
         <string name="emailGatewayNumber">6245</string>
         <boolean name="enabledNotifyWapMMSC" value="true" />
@@ -140739,7 +140616,6 @@
         <boolean name="disable_voice_barring_notification_bool" value="true" />
         <boolean name="drop_video_call_when_answering_audio_call_bool" value="true" />
         <boolean name="dtmf_type_enabled_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <boolean name="editable_wfc_roaming_mode_bool" value="true" />
         <string name="emailGatewayNumber">6245</string>
         <boolean name="enabledNotifyWapMMSC" value="true" />
@@ -141185,7 +141061,6 @@
         <boolean name="disable_voice_barring_notification_bool" value="true" />
         <boolean name="drop_video_call_when_answering_audio_call_bool" value="true" />
         <boolean name="dtmf_type_enabled_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <boolean name="editable_wfc_roaming_mode_bool" value="true" />
         <string name="emailGatewayNumber">6245</string>
         <boolean name="enabledNotifyWapMMSC" value="true" />
@@ -141633,7 +141508,6 @@
         <boolean name="disable_voice_barring_notification_bool" value="true" />
         <boolean name="drop_video_call_when_answering_audio_call_bool" value="true" />
         <boolean name="dtmf_type_enabled_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <boolean name="editable_wfc_roaming_mode_bool" value="true" />
         <string name="emailGatewayNumber">6245</string>
         <boolean name="enabledNotifyWapMMSC" value="true" />
@@ -142079,7 +141953,6 @@
         <boolean name="disable_voice_barring_notification_bool" value="true" />
         <boolean name="drop_video_call_when_answering_audio_call_bool" value="true" />
         <boolean name="dtmf_type_enabled_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <boolean name="editable_wfc_roaming_mode_bool" value="true" />
         <string name="emailGatewayNumber">6245</string>
         <boolean name="enabledNotifyWapMMSC" value="true" />
@@ -145701,7 +145574,6 @@
         <boolean name="disable_voice_barring_notification_bool" value="true" />
         <boolean name="drop_video_call_when_answering_audio_call_bool" value="true" />
         <boolean name="dtmf_type_enabled_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <boolean name="editable_wfc_roaming_mode_bool" value="false" />
         <string name="emailGatewayNumber">6245</string>
         <string-array name="emergency_number_prefix_string_array" num="3">
@@ -146348,7 +146220,6 @@
         <boolean name="disable_voice_barring_notification_bool" value="true" />
         <boolean name="drop_video_call_when_answering_audio_call_bool" value="true" />
         <boolean name="dtmf_type_enabled_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <boolean name="editable_wfc_roaming_mode_bool" value="true" />
         <string name="emailGatewayNumber">6245</string>
         <string-array name="emergency_number_prefix_string_array" num="3">
@@ -149068,7 +148939,6 @@
         <boolean name="carrier_volte_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
         <boolean name="csp_enabled_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="true" />
         <string-array name="emergency_number_prefix_string_array" num="1">
             <item value="*272" />
         </string-array>
@@ -149358,7 +149228,6 @@
         <boolean name="carrier_volte_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
         <boolean name="csp_enabled_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="true" />
         <string-array name="emergency_number_prefix_string_array" num="1">
             <item value="*272" />
         </string-array>
@@ -149643,7 +149512,6 @@
         <int name="carrier_ussd_method_int" value="2" />
         <boolean name="carrier_volte_available_bool" value="true" />
         <boolean name="csp_enabled_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <string-array name="emergency_number_prefix_string_array" num="3">
             <item value="*67" />
             <item value="*82" />
@@ -149903,7 +149771,6 @@
         <boolean name="carrier_supports_ss_over_ut_bool" value="true" />
         <boolean name="carrier_volte_available_bool" value="true" />
         <boolean name="csp_enabled_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <string-array name="emergency_number_prefix_string_array" num="3">
             <item value="*67" />
             <item value="*82" />
@@ -150165,7 +150032,6 @@
         <boolean name="carrier_volte_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
         <boolean name="csp_enabled_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="true" />
         <string-array name="emergency_number_prefix_string_array" num="1">
             <item value="*272" />
         </string-array>
@@ -150451,7 +150317,6 @@
         <boolean name="carrier_volte_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
         <boolean name="csp_enabled_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="true" />
         <string-array name="emergency_number_prefix_string_array" num="1">
             <item value="*272" />
         </string-array>
@@ -153085,7 +152950,6 @@
         <boolean name="disable_voice_barring_notification_bool" value="true" />
         <boolean name="drop_video_call_when_answering_audio_call_bool" value="true" />
         <boolean name="dtmf_type_enabled_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <boolean name="editable_wfc_roaming_mode_bool" value="true" />
         <string name="emailGatewayNumber">6245</string>
         <boolean name="enabledNotifyWapMMSC" value="true" />
@@ -153968,7 +153832,6 @@
         <boolean name="disable_voice_barring_notification_bool" value="true" />
         <boolean name="drop_video_call_when_answering_audio_call_bool" value="true" />
         <boolean name="dtmf_type_enabled_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <boolean name="editable_wfc_roaming_mode_bool" value="true" />
         <string name="emailGatewayNumber">6245</string>
         <boolean name="enabledNotifyWapMMSC" value="true" />
@@ -154355,7 +154218,6 @@
         <boolean name="carrier_default_wfc_ims_roaming_enabled_bool" value="true" />
         <boolean name="carrier_volte_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <boolean name="enableGroupMms" value="false" />
         <int name="ims.ipv4_sip_mtu_size_cellular_int" value="1300" />
         <int name="ims.ipv6_sip_mtu_size_cellular_int" value="1280" />
@@ -154431,7 +154293,6 @@
         <boolean name="carrier_volte_available_bool" value="true" />
         <boolean name="display_no_data_notification_on_permanent_failure_bool" value="true" />
         <boolean name="editable_voicemail_number_setting_bool" value="false" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <string name="ims.ims_user_agent_string">#MANUFACTURE# #MODEL#/AMX MEX</string>
         <int name="ims.request_uri_type_int" value="1" />
         <int-array name="imsemergency.emergency_over_ims_supported_rats_int_array" num="1">
@@ -154587,7 +154448,6 @@
         <boolean name="carrier_supports_ss_over_ut_bool" value="true" />
         <boolean name="carrier_volte_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <boolean name="gsm_cdma_calls_can_be_hd_audio" value="true" />
         <int name="ims.registration_retry_base_timer_millis_int" value="10000" />
         <int name="ims.registration_retry_max_timer_millis_int" value="7200000" />
@@ -154744,7 +154604,6 @@
         <int name="carrier_default_wfc_ims_mode_int" value="1" />
         <boolean name="carrier_volte_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <boolean name="gsm_cdma_calls_can_be_hd_audio" value="true" />
         <int-array name="imsemergency.emergency_over_ims_supported_rats_int_array" num="1">
             <item value="3" />
@@ -154851,7 +154710,6 @@
         <int name="carrier_default_wfc_ims_mode_int" value="1" />
         <boolean name="carrier_volte_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <boolean name="gsm_cdma_calls_can_be_hd_audio" value="true" />
         <int-array name="imsemergency.emergency_over_ims_supported_rats_int_array" num="1">
             <item value="3" />
@@ -154958,7 +154816,6 @@
         <int name="carrier_default_wfc_ims_mode_int" value="1" />
         <boolean name="carrier_volte_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <boolean name="gsm_cdma_calls_can_be_hd_audio" value="true" />
         <int-array name="imsemergency.emergency_over_ims_supported_rats_int_array" num="1">
             <item value="3" />
@@ -155065,7 +154922,6 @@
         <int name="carrier_default_wfc_ims_mode_int" value="1" />
         <boolean name="carrier_volte_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <boolean name="gsm_cdma_calls_can_be_hd_audio" value="true" />
         <int-array name="imsemergency.emergency_over_ims_supported_rats_int_array" num="1">
             <item value="3" />
@@ -155172,7 +155028,6 @@
         <int name="carrier_default_wfc_ims_mode_int" value="1" />
         <boolean name="carrier_volte_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <boolean name="gsm_cdma_calls_can_be_hd_audio" value="true" />
         <int-array name="imsemergency.emergency_over_ims_supported_rats_int_array" num="1">
             <item value="3" />
@@ -155279,7 +155134,6 @@
         <int name="carrier_default_wfc_ims_mode_int" value="1" />
         <boolean name="carrier_volte_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <boolean name="gsm_cdma_calls_can_be_hd_audio" value="true" />
         <int-array name="imsemergency.emergency_over_ims_supported_rats_int_array" num="1">
             <item value="3" />
@@ -155386,7 +155240,6 @@
         <int name="carrier_default_wfc_ims_mode_int" value="1" />
         <boolean name="carrier_volte_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <boolean name="gsm_cdma_calls_can_be_hd_audio" value="true" />
         <int-array name="imsemergency.emergency_over_ims_supported_rats_int_array" num="1">
             <item value="3" />
@@ -155521,7 +155374,6 @@
         <boolean name="carrier_supports_ss_over_ut_bool" value="true" />
         <boolean name="carrier_volte_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <boolean name="gsm_cdma_calls_can_be_hd_audio" value="true" />
         <int name="ims.registration_retry_base_timer_millis_int" value="10000" />
         <int name="ims.registration_retry_max_timer_millis_int" value="7200000" />
@@ -155679,7 +155531,6 @@
         <boolean name="carrier_default_wfc_ims_roaming_enabled_bool" value="true" />
         <boolean name="carrier_volte_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <boolean name="gsm_cdma_calls_can_be_hd_audio" value="true" />
         <int-array name="imsemergency.emergency_over_ims_supported_rats_int_array" num="1">
             <item value="3" />
@@ -155785,7 +155636,6 @@
         <boolean name="carrier_default_wfc_ims_enabled_bool" value="true" />
         <int name="carrier_default_wfc_ims_mode_int" value="1" />
         <boolean name="carrier_default_wfc_ims_roaming_enabled_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <boolean name="gsm_cdma_calls_can_be_hd_audio" value="true" />
         <int-array name="imsemergency.emergency_over_ims_supported_rats_int_array" num="1">
             <item value="3" />
@@ -155893,7 +155743,6 @@
         <boolean name="carrier_default_wfc_ims_roaming_enabled_bool" value="true" />
         <boolean name="carrier_volte_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <boolean name="gsm_cdma_calls_can_be_hd_audio" value="true" />
         <int-array name="imsemergency.emergency_over_ims_supported_rats_int_array" num="1">
             <item value="3" />
@@ -156031,7 +155880,6 @@
         <boolean name="carrier_default_wfc_ims_roaming_enabled_bool" value="true" />
         <boolean name="carrier_volte_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <boolean name="gsm_cdma_calls_can_be_hd_audio" value="true" />
         <int-array name="imsemergency.emergency_over_ims_supported_rats_int_array" num="1">
             <item value="3" />
@@ -165207,7 +165055,6 @@
         <int name="carrier_ussd_method_int" value="2" />
         <boolean name="carrier_volte_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="true" />
         <boolean name="hide_ims_apn_bool" value="true" />
         <string name="ims.ims_user_agent_string">#MANUFACTURE#_#MODEL#_#BUILD#</string>
         <int name="ims.ipv4_sip_mtu_size_cellular_int" value="1300" />
@@ -166098,7 +165945,6 @@
         <int name="carrier_ussd_method_int" value="2" />
         <boolean name="carrier_volte_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="true" />
         <boolean name="hide_ims_apn_bool" value="true" />
         <string name="ims.ims_user_agent_string">#MANUFACTURE#_#MODEL#_#BUILD#</string>
         <int name="ims.ipv4_sip_mtu_size_cellular_int" value="1300" />
@@ -166215,7 +166061,6 @@
         <int name="carrier_ussd_method_int" value="2" />
         <boolean name="carrier_volte_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="true" />
         <boolean name="hide_ims_apn_bool" value="true" />
         <string name="ims.ims_user_agent_string">#MANUFACTURE#_#MODEL#_#BUILD#</string>
         <int name="ims.ipv4_sip_mtu_size_cellular_int" value="1300" />
@@ -166332,7 +166177,6 @@
         <int name="carrier_ussd_method_int" value="2" />
         <boolean name="carrier_volte_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="true" />
         <boolean name="hide_ims_apn_bool" value="true" />
         <string name="ims.ims_user_agent_string">#MANUFACTURE#_#MODEL#_#BUILD#</string>
         <int name="ims.ipv4_sip_mtu_size_cellular_int" value="1300" />
@@ -166449,7 +166293,6 @@
         <int name="carrier_ussd_method_int" value="2" />
         <boolean name="carrier_volte_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="true" />
         <boolean name="hide_ims_apn_bool" value="true" />
         <string name="ims.ims_user_agent_string">#MANUFACTURE#_#MODEL#_#BUILD#</string>
         <int name="ims.ipv4_sip_mtu_size_cellular_int" value="1300" />
@@ -166566,7 +166409,6 @@
         <int name="carrier_ussd_method_int" value="2" />
         <boolean name="carrier_volte_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="true" />
         <boolean name="hide_ims_apn_bool" value="true" />
         <string name="ims.ims_user_agent_string">#MANUFACTURE#_#MODEL#_#BUILD#</string>
         <int name="ims.ipv4_sip_mtu_size_cellular_int" value="1300" />
@@ -166683,7 +166525,6 @@
         <int name="carrier_ussd_method_int" value="2" />
         <boolean name="carrier_volte_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="true" />
         <boolean name="hide_ims_apn_bool" value="true" />
         <string name="ims.ims_user_agent_string">#MANUFACTURE#_#MODEL#_#BUILD#</string>
         <int name="ims.ipv4_sip_mtu_size_cellular_int" value="1300" />
@@ -166800,7 +166641,6 @@
         <int name="carrier_ussd_method_int" value="2" />
         <boolean name="carrier_volte_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="true" />
         <boolean name="hide_ims_apn_bool" value="true" />
         <string name="ims.ims_user_agent_string">#MANUFACTURE#_#MODEL#_#BUILD#</string>
         <int name="ims.ipv4_sip_mtu_size_cellular_int" value="1300" />
@@ -166917,7 +166757,6 @@
         <int name="carrier_ussd_method_int" value="2" />
         <boolean name="carrier_volte_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="true" />
         <boolean name="hide_ims_apn_bool" value="true" />
         <string name="ims.ims_user_agent_string">#MANUFACTURE#_#MODEL#_#BUILD#</string>
         <int name="ims.ipv4_sip_mtu_size_cellular_int" value="1300" />
@@ -167034,7 +166873,6 @@
         <int name="carrier_ussd_method_int" value="2" />
         <boolean name="carrier_volte_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="true" />
         <boolean name="hide_ims_apn_bool" value="true" />
         <string name="ims.ims_user_agent_string">#MANUFACTURE#_#MODEL#_#BUILD#</string>
         <int name="ims.ipv4_sip_mtu_size_cellular_int" value="1300" />
@@ -167151,7 +166989,6 @@
         <int name="carrier_ussd_method_int" value="2" />
         <boolean name="carrier_volte_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="true" />
         <boolean name="hide_ims_apn_bool" value="true" />
         <string name="ims.ims_user_agent_string">#MANUFACTURE#_#MODEL#_#BUILD#</string>
         <int name="ims.ipv4_sip_mtu_size_cellular_int" value="1300" />
@@ -167268,7 +167105,6 @@
         <int name="carrier_ussd_method_int" value="2" />
         <boolean name="carrier_volte_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="true" />
         <boolean name="hide_ims_apn_bool" value="true" />
         <string name="ims.ims_user_agent_string">#MANUFACTURE#_#MODEL#_#BUILD#</string>
         <int name="ims.ipv4_sip_mtu_size_cellular_int" value="1300" />
@@ -167385,7 +167221,6 @@
         <int name="carrier_ussd_method_int" value="2" />
         <boolean name="carrier_volte_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="true" />
         <boolean name="hide_ims_apn_bool" value="true" />
         <string name="ims.ims_user_agent_string">#MANUFACTURE#_#MODEL#_#BUILD#</string>
         <int name="ims.ipv4_sip_mtu_size_cellular_int" value="1300" />
@@ -167502,7 +167337,6 @@
         <int name="carrier_ussd_method_int" value="2" />
         <boolean name="carrier_volte_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="true" />
         <boolean name="hide_ims_apn_bool" value="true" />
         <string name="ims.ims_user_agent_string">#MANUFACTURE#_#MODEL#_#BUILD#</string>
         <int name="ims.ipv4_sip_mtu_size_cellular_int" value="1300" />
@@ -167619,7 +167453,6 @@
         <int name="carrier_ussd_method_int" value="2" />
         <boolean name="carrier_volte_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="true" />
         <boolean name="hide_ims_apn_bool" value="true" />
         <string name="ims.ims_user_agent_string">#MANUFACTURE#_#MODEL#_#BUILD#</string>
         <int name="ims.ipv4_sip_mtu_size_cellular_int" value="1300" />
@@ -167736,7 +167569,6 @@
         <int name="carrier_ussd_method_int" value="2" />
         <boolean name="carrier_volte_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="true" />
         <boolean name="hide_ims_apn_bool" value="true" />
         <string name="ims.ims_user_agent_string">#MANUFACTURE#_#MODEL#_#BUILD#</string>
         <int name="ims.ipv4_sip_mtu_size_cellular_int" value="1300" />
@@ -167853,7 +167685,6 @@
         <int name="carrier_ussd_method_int" value="2" />
         <boolean name="carrier_volte_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="true" />
         <boolean name="hide_ims_apn_bool" value="true" />
         <string name="ims.ims_user_agent_string">#MANUFACTURE#_#MODEL#_#BUILD#</string>
         <int name="ims.ipv4_sip_mtu_size_cellular_int" value="1300" />
@@ -167970,7 +167801,6 @@
         <int name="carrier_ussd_method_int" value="2" />
         <boolean name="carrier_volte_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="true" />
         <boolean name="hide_ims_apn_bool" value="true" />
         <string name="ims.ims_user_agent_string">#MANUFACTURE#_#MODEL#_#BUILD#</string>
         <int name="ims.ipv4_sip_mtu_size_cellular_int" value="1300" />
@@ -168087,7 +167917,6 @@
         <int name="carrier_ussd_method_int" value="2" />
         <boolean name="carrier_volte_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="true" />
         <boolean name="hide_ims_apn_bool" value="true" />
         <string name="ims.ims_user_agent_string">#MANUFACTURE#_#MODEL#_#BUILD#</string>
         <int name="ims.ipv4_sip_mtu_size_cellular_int" value="1300" />
@@ -168204,7 +168033,6 @@
         <int name="carrier_ussd_method_int" value="2" />
         <boolean name="carrier_volte_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="true" />
         <boolean name="hide_ims_apn_bool" value="true" />
         <string name="ims.ims_user_agent_string">#MANUFACTURE#_#MODEL#_#BUILD#</string>
         <int name="ims.ipv4_sip_mtu_size_cellular_int" value="1300" />
@@ -168321,7 +168149,6 @@
         <int name="carrier_ussd_method_int" value="2" />
         <boolean name="carrier_volte_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="true" />
         <boolean name="hide_ims_apn_bool" value="true" />
         <string name="ims.ims_user_agent_string">#MANUFACTURE#_#MODEL#_#BUILD#</string>
         <int name="ims.ipv4_sip_mtu_size_cellular_int" value="1300" />
@@ -168438,7 +168265,6 @@
         <int name="carrier_ussd_method_int" value="2" />
         <boolean name="carrier_volte_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="true" />
         <boolean name="hide_ims_apn_bool" value="true" />
         <string name="ims.ims_user_agent_string">#MANUFACTURE#_#MODEL#_#BUILD#</string>
         <int name="ims.ipv4_sip_mtu_size_cellular_int" value="1300" />
@@ -169346,7 +169172,6 @@
         <boolean name="carrier_supports_ss_over_ut_bool" value="true" />
         <boolean name="carrier_volte_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <int-array name="imsemergency.emergency_over_ims_supported_rats_int_array" num="1">
             <item value="3" />
         </int-array>
@@ -172858,7 +172683,6 @@
         <boolean name="vonr_enabled_bool" value="true" />
         <int name="carrier_default_wfc_ims_mode_int" value="1" />
         <int name="carrier_default_wfc_ims_roaming_mode_int" value="1" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <boolean name="carrier_data_channel_supported_bool" value="true" />
         <boolean name="allow_ut_when_wifi_on_bool" value="true" />
         <boolean name="hide_enhanced_4g_lte_bool" value="true" />
@@ -172955,7 +172779,6 @@
         <boolean name="support_video_conference_call_bool" value="false" />
         <int name="carrier_default_wfc_ims_mode_int" value="1" />
         <int name="carrier_default_wfc_ims_roaming_mode_int" value="1" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <boolean name="carrier_data_channel_supported_bool" value="true" />
         <boolean name="allow_ut_when_wifi_on_bool" value="true" />
         <boolean name="disable_supplementary_services_in_airplane_mode_bool" value="true" />
@@ -173217,7 +173040,6 @@
         <boolean name="vonr_enabled_bool" value="true" />
         <int name="carrier_default_wfc_ims_mode_int" value="1" />
         <int name="carrier_default_wfc_ims_roaming_mode_int" value="1" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <boolean name="carrier_data_channel_supported_bool" value="true" />
         <boolean name="allow_ut_when_wifi_on_bool" value="true" />
         <boolean name="hide_enhanced_4g_lte_bool" value="true" />
@@ -173258,7 +173080,6 @@
         <boolean name="support_video_conference_call_bool" value="false" />
         <int name="carrier_default_wfc_ims_mode_int" value="1" />
         <int name="carrier_default_wfc_ims_roaming_mode_int" value="1" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <boolean name="carrier_data_channel_supported_bool" value="true" />
         <boolean name="allow_ut_when_wifi_on_bool" value="true" />
         <boolean name="hide_enhanced_4g_lte_bool" value="true" />
@@ -174580,7 +174401,6 @@
         <boolean name="carrier_vt_available_bool" value="false" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
         <string name="default_vm_number_string">+61101</string>
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <string name="ims.ims_user_agent_string">Telstra #MANUFACTURE# #HWSKU# Android#AV# #BUILD#</string>
         <int-array name="lte_rsrp_thresholds_int_array" num="4">
             <item value="-120" />
@@ -174615,7 +174435,6 @@
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
         <string name="default_vm_number_string">+61101</string>
         <boolean name="editable_tether_apn_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <int-array name="ims.geolocation_pidf_in_sip_invite_support_int_array" num="2">
             <item value="4" />
             <item value="2" />
@@ -174932,7 +174751,6 @@
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
         <string name="default_vm_number_string">+61101</string>
         <boolean name="editable_tether_apn_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <int-array name="ims.geolocation_pidf_in_sip_invite_support_int_array" num="2">
             <item value="4" />
             <item value="2" />
@@ -175068,7 +174886,6 @@
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
         <string name="default_vm_number_string">+61101</string>
         <boolean name="editable_tether_apn_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <int-array name="ims.geolocation_pidf_in_sip_invite_support_int_array" num="2">
             <item value="4" />
             <item value="2" />
@@ -175204,7 +175021,6 @@
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
         <string name="default_vm_number_string">+61101</string>
         <boolean name="editable_tether_apn_bool" value="true" />
-        <boolean name="editable_wfc_mode_bool" value="false" />
         <int-array name="ims.geolocation_pidf_in_sip_invite_support_int_array" num="2">
             <item value="4" />
             <item value="2" />
