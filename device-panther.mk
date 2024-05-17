@@ -14,6 +14,8 @@
 # limitations under the License.
 #
 
+TARGET_KERNEL_DIR ?= device/google/pantah-kernel
+
 $(call inherit-product-if-exists, vendor/google_devices/pantah/prebuilts/device-vendor-panther.mk)
 $(call inherit-product-if-exists, vendor/google_devices/gs201/prebuilts/device-vendor.mk)
 $(call inherit-product-if-exists, vendor/google_devices/gs201/proprietary/device-vendor.mk)
