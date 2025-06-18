@@ -5,9 +5,6 @@ on init
     setprop persist.vendor.nfc.streset libstreset21
     setprop persist.vendor.se.streset libstreset21
 
-on init && property:ro.vendor.factory=1
-    import /vendor/etc/init/hw/init.factory.rc
-
 on early-boot
     # Wait for insmod_sh to finish all common modules
     wait_for_prop vendor.common.modules.ready 1
