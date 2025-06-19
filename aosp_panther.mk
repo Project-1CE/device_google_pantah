@@ -27,5 +27,3 @@ PRODUCT_DEVICE := panther
 PRODUCT_MODEL := AOSP on Panther
 PRODUCT_BRAND := Android
 PRODUCT_MANUFACTURER := Google
-
-PRODUCT_PACKAGES += com.android.vndk.current.on_vendor

@@ -27,5 +27,3 @@ PRODUCT_DEVICE := cheetah
 PRODUCT_MODEL := AOSP on Cheetah
 PRODUCT_BRAND := Android
 PRODUCT_MANUFACTURER := Google
-
-PRODUCT_PACKAGES += com.android.vndk.current.on_vendor
