@@ -30,7 +30,6 @@ endif
 TARGET_LINUX_KERNEL_VERSION := $(RELEASE_KERNEL_CHEETAH_VERSION)
 # Keeps flexibility for kasan and ufs builds
 TARGET_KERNEL_DIR ?= $(RELEASE_KERNEL_CHEETAH_DIR)
-TARGET_BOARD_KERNEL_HEADERS ?= $(RELEASE_KERNEL_CHEETAH_DIR)/kernel-headers
 
 $(call inherit-product, device/google/pantah/uwb/uwb_calibration_country.mk)
 
